@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Weekly Music Birthdays</title>
+    <link>https://example.com</link>
+    <description>Notable music birthdays this week</description>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 27 Jul 2025 10:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>David Bowie - Birthday on 8 Jan</title>
+      <description>English singer, songwriter, and actor.</description>
+      <link>https://en.wikipedia.org/wiki/David_Bowie</link>
+      <pubDate>Sun, 27 Jul 2025 10:00:00 GMT</pubDate>
+      <guid>https://en.wikipedia.org/wiki/David_Bowie</guid>
+    </item>
+
+    <item>
+      <title>Mick Jagger - Birthday on 26 Jul</title>
+      <description>Lead singer of The Rolling Stones.</description>
+      <link>https://en.wikipedia.org/wiki/Mick_Jagger</link>
+      <pubDate>Sun, 27 Jul 2025 10:00:00 GMT</pubDate>
+      <guid>https://en.wikipedia.org/wiki/Mick_Jagger</guid>
+    </item>
+
+  </channel>
+</rss>
